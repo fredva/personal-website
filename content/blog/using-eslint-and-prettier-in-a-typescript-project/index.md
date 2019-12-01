@@ -205,7 +205,7 @@ To configure `lint-staged` and `husky`, add the following configuration to the `
   },
   "lint-staged": {
       "*.{js,ts,tsx}": [
-          "eslint . --fix",
+          "eslint --fix",
           "git add"
       ]
   }
