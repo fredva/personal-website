@@ -2,7 +2,7 @@
     "name": "robertcooper.me",
     "dependencies": {
         "focus-visible": "^5.0.2",
-        "gatsby-plugin-mdx": "^1.0.24",
+        "gatsby-plugin-mdx": "^1.0.58",
         "gatsby-plugin-netlify": "^2.1.5",
         "gatsby-plugin-netlify-cache": "^1.2.0",
         "gatsby-plugin-twitter": "^2.1.2",
